@@ -59,13 +59,15 @@ Me apasiona resolver problemas complejos mediante código limpio, arquitecturas 
 ---
 
 ### 📊 Estadísticas de GitHub
-<!--
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristian3-8&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true" alt="Estadísticas de Cristian" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3-8&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,javascript" alt="Lenguajes más usados" />
-</p>
--->
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristian3-8&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de Cristian" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3-8&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css,javascript" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian3-8&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+</p>
 
 ---
 
