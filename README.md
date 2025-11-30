@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Cristian Hernan Ojeda</h1>
 <h3 align="center">Desarrollador Backend Java | Spring Boot | APIs REST | Microservicios</h3>
 
-<p align="center">
+/* <p align="center">
   <a href="https://linkedin.com/in/tu-linkedin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
@@ -9,7 +9,7 @@
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" />
   </a>
 </p>
-
+*/
 ---
 
 ### 💼 Sobre Mí
